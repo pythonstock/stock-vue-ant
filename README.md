@@ -30,6 +30,6 @@ git push -u origin master
 
 - 【去掉权限，去掉登录页面之间进入系统】
 - https://blog.csdn.net/freewebsys/article/details/88361751
--【使用 ant-design-pro-vue 修改配置文件打包 ，去掉sourceMap，保证代码安全】
+- 【使用 ant-design-pro-vue 修改配置文件打包 ，去掉sourceMap，保证代码安全】
 - https://blog.csdn.net/freewebsys/article/details/88703898
 
