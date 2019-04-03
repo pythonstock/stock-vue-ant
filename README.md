@@ -2,12 +2,10 @@
 项目说明
 ----
 
-使用 【 Ant Design Pro Vue 】 模板进行开发的。
-人家的项目地址： https://github.com/sendya/ant-design-pro-vue
-
-稍作修改，不更改主要的架构，这样方便进行更新组件。我只是实现我自己的项目逻辑。
-
-页面在 src/views ，接口在 src/api 下面。
+> 使用 【 Ant Design Pro Vue 】 模板进行开发的。
+> 人家的项目地址： https://github.com/sendya/ant-design-pro-vue
+> 稍作修改，不更改主要的架构，这样方便进行更新组件。我只是实现我自己的项目逻辑。
+> 页面在 src/views ，接口在 src/api 下面。
 
 
 github提交
